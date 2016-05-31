@@ -1,0 +1,11 @@
+To run the file do the following command:
+
+python suffixPrefix.py --test 2 
+
+--test 2 specifies to use the file without solutions
+
+--test 1 specifies to uset eh file with solutions
+
+if you would like the file to output to answers.txt, run the following:
+
+python suffixPrefix.py --test 2 > answers.txt

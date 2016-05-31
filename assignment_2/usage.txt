@@ -1,0 +1,10 @@
+To run the lockers.py program do the following command:
+
+python lockers.py --test [option #]
+Options:
+    1 - Enumeration Algorithm
+    2 - Dynamic Programming Algorithm
+
+There is some error handling built in to the program.
+If you forget the option or input something incorrectly, the usage 
+prompt will be displayed. 

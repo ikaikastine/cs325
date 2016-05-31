@@ -1,0 +1,15 @@
+There are two python files which contain the algorithms. 
+
+maxSubArray.py calculates the maximum subarrays with the three algorithms using the test cases provided. All test cases are hard coded into the program so there will be no reading from a file. MaxSubArray.py will output all the answers to output.txt in the following format:
+
+ENUMERATION: 1 2 3 4...n
+BETTER ENUMERATION: 1 2 3 4...n
+DYNAMIC PROGAMMING: 1 2 3 4...n
+
+The output.txt file is included, however upon running the program, it will overwrite the file and create a new output.txt
+
+runTime.py creates random arrays of integers between -100 and 100. It will also run through the program 18 times, each time incrementing the number of elements in the array starting with 100 elements and ending with 1800 elements. For each random array, the program will calculate the max subarray 10 times and take the average of those calculations. Therefore, when running the enumeration test, expect it to take a while since the final calculation at 1800 elements takes roughly 9 seconds, and it calculates that 10 times. 
+
+To compile the programs simply run the following commands:
+python maxSubArray.py
+python runTime.py

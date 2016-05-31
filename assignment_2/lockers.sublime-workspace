@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keyCount"
+			],
+			[
+				"dp",
+				"dp_set1"
+			],
+			[
+				"lea",
+				"leastOpened"
+			],
+			[
+				"hand",
+				"handPos"
+			],
+			[
+				"curr",
+				"currentPlayer"
+			],
+			[
+				"feast",
+				"feastCardEffect"
+			],
+			[
+				"M",
+				"MAX_HAND"
+			],
+			[
+				"temp",
+				"temphand"
+			],
+			[
+				"cure",
+				"currentPlayer"
+			],
+			[
+				"garden",
+				"gardentsCardEffect"
+			],
+			[
+				"coun",
+				"councilRoomCardEffect"
+			],
+			[
+				"adve",
+				"adventurerCardEffect"
+			],
+			[
+				"nu",
+				"_numKeys"
+			],
+			[
+				"num",
+				"_numTennisBalls"
+			],
+			[
+				"_nu",
+				"_numKeys"
+			],
+			[
+				"_num",
+				"_numTennisBalls"
+			],
+			[
+				"bal",
+				"ballCounter"
+			],
+			[
+				"ten",
+				"tennisBallLocker"
+			],
+			[
+				"keys",
+				"keys"
+			],
+			[
+				"tenni",
+				"_tennisBalls"
+			],
+			[
+				"best",
+				"bestEmptySet"
+			],
+			[
+				"Leas",
+				"leastOpenedLockers"
+			],
+			[
+				"Open",
+				"openLeastLockers"
+			],
+			[
+				"tennis",
+				"tennisBallLocker"
+			],
+			[
+				"tenn",
+				"tennisBallLocker"
+			],
+			[
+				"tenis",
+				"tennisBallCount"
+			],
+			[
+				"alg",
+				"algorithmTwo"
+			],
+			[
+				"print",
+				"printFormat"
+			],
+			[
+				"pr",
+				"printFormat"
+			],
+			[
+				"load",
+				"loadFromFile"
+			],
+			[
+				"ke",
+				"_keys"
+			],
+			[
+				"tn",
+				"_tennisBalls"
+			],
+			[
+				"test",
+				"testSets"
+			],
+			[
+				"lef",
+				"leftPos"
+			],
+			[
+				"por",
+				"portNum"
+			],
+			[
+				"po",
+				"portNum"
+			],
+			[
+				"Buf",
+				"BUFSIZE"
+			],
+			[
+				"socket",
+				"socketfd"
+			],
+			[
+				"buf",
+				"BUFSIZE"
+			],
+			[
+				"saved",
+				"savedStdin"
+			],
+			[
+				"sav",
+				"savedStdout"
+			],
+			[
+				"file",
+				"fileDescriptor"
+			],
+			[
+				"fil",
+				"fileDescriptor"
+			],
+			[
+				"save",
+				"savedStdin"
+			],
+			[
+				"exit",
+				"exitStatus"
+			],
+			[
+				"con",
+				"connectionName"
+			],
+			[
+				"conn",
+				"connectionName"
+			],
+			[
+				"rom",
+				"roomName"
+			],
+			[
+				"room",
+				"roomName"
+			],
+			[
+				"begin",
+				"beginAdventure"
+			],
+			[
+				"curre",
+				"currentRoom"
+			],
+			[
+				"step",
+				"stepCount"
+			],
+			[
+				"cur",
+				"currentRoom"
+			],
+			[
+				"connec",
+				"connectionNum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 284.0,
+		"last_filter": "add",
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kevin/development/OSU/cs325/assignment_2"
+	],
+	"file_history":
+	[
+		"/home/kevin/development/cs362w16_stinek/dominion/dominion.sublime-project",
+		"/home/kevin/development/OSU/cs325/practiceAssignments/3.txt",
+		"/home/kevin/development/OSU/cs325/assignment_2/dp_set1.txt",
+		"/home/kevin/development/OSU/cs325/assignment_2/usage.txt",
+		"/home/kevin/development/OSU/cs325/assignment_2/lockers.py",
+		"/home/kevin/development/OSU/cs325/assignment_2/testSet.txt",
+		"/home/kevin/development/OSU/cs325/assignment_2/enumerationRevised.py",
+		"/home/kevin/development/cs362w16_stinek/dominion/refactor.txt",
+		"/home/kevin/development/cs362w16_stinek/dominion/dominionOriginal.c",
+		"/home/kevin/development/cs362w16_stinek/dominion/Makefile",
+		"/home/kevin/development/cs362w16_stinek/dominion/dominion.c",
+		"/home/kevin/development/cs362w16_stinek/dominion/dominion.h",
+		"/home/kevin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/kevin/development/cs362w16_stinek/dominion/dominion2.c",
+		"/home/kevin/development/OSU/cs325/assignment_2/dpAnswers.txt",
+		"/home/kevin/development/OSU/cs325/assignment_2/assign2.py",
+		"/home/kevin/development/OSU/cs325/assignment_2/main.py",
+		"/home/kevin/development/OSU/cs325/assignment_2/assign2New.py",
+		"/home/kevin/development/testing/algorithm.py",
+		"/home/kevin/OSU/OSU/cs325/assignment_1/runTime.py",
+		"/home/kevin/OSU/OSU/cs325/assignment_1/compile.txt",
+		"/home/kevin/OSU/OSU/cs325/assignment_1/maxSubArray.py",
+		"/home/kevin/OSU/OSU/cs325/assignment_1/testing.txt",
+		"/tmp/sublime-sftp-browse-1449513843/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/otp_dec_d.c",
+		"/tmp/sublime-sftp-browse-1449542636/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/compileall",
+		"/tmp/sublime-sftp-browse-1449513853/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/otp_enc_d.c",
+		"/tmp/sublime-sftp-browse-1449513839/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/otp_dec.c",
+		"/tmp/sublime-sftp-browse-1449513848/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/otp_enc.c",
+		"/tmp/sublime-sftp-browse-1449513829/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/keygen.c",
+		"/tmp/sublime-sftp-browse-1449526266/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/OTP/p4gradingscript",
+		"/tmp/sublime-sftp-browse-1448328904/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/p3testscript",
+		"/tmp/sublime-sftp-browse-1448323224/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/splitLine.c",
+		"/tmp/sublime-sftp-browse-1448324771/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/smallsh.h",
+		"/tmp/sublime-sftp-browse-1448323220/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/execute.c",
+		"/tmp/sublime-sftp-browse-1448323210/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/smallsh.c",
+		"/tmp/sublime-sftp-browse-1448324368/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/smallsh.h",
+		"/tmp/sublime-sftp-browse-1448311262/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/makefile",
+		"/tmp/sublime-sftp-browse-1448310909/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/shellsh.h",
+		"/tmp/sublime-sftp-browse-1448311037/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/execute.c",
+		"/tmp/sublime-sftp-browse-1448311172/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/splitLine.c",
+		"/tmp/sublime-sftp-browse-1448307461/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/smallsh.c",
+		"/tmp/sublime-sftp-browse-1448311201/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/getLine.c",
+		"/tmp/sublime-sftp-browse-1448312163/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/p3testscript",
+		"/tmp/sublime-sftp-browse-1448308945/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/p3testscript",
+		"/tmp/sublime-sftp-browse-1448076662/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/smallsh.c",
+		"/tmp/sublime-sftp-browse-1448060624/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/smallsh/smallsh.c",
+		"/home/kevin/OSU/team-fig/newUser.html",
+		"/home/kevin/OSU/team-fig/index.html",
+		"/home/kevin/OSU/team-fig/stylesheets/stylesheet.css",
+		"/home/kevin/development/OSU/stinek.adventure.c",
+		"/tmp/sublime-sftp-browse-1446767013/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/adventure/stinek.adventure.c",
+		"/tmp/sublime-sftp-browse-1446767343/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/stats/stats",
+		"/tmp/sublime-sftp-browse-1446765156/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/adventure/stinek.adventure.c",
+		"/home/kevin/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+		"/tmp/sublime-sftp-browse-1446667084/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/adventure/stinek.adventure.c",
+		"/tmp/sublime-sftp-browse-1446514634/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/adventure/stinek.adventure.c",
+		"/tmp/sublime-sftp-browse-1446510693/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/adventure/stinek.adventure.c",
+		"/home/kevin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/tmp/sublime-sftp-browse-1446500049/ENGR/nfs/stak/students/s/stinek/github/OSU/cs344/assignments/adventure/stinek.adventure.c",
+		"/home/kevin/.config/sublime-text-3/Packages/User/sftp_servers/ENGR"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"choice1",
+			"print",
+			"charCheck",
+			"charToInt",
+			"57170",
+			"57100",
+			"pnums",
+			"knums",
+			"cnums",
+			"charToInt",
+			"charCheck",
+			"ctxt",
+			"ktxt",
+			"ptxt",
+			"// ",
+			"portNum",
+			"portno",
+			"cnums",
+			"pVal",
+			"knums",
+			"plainNumbers",
+			"pnums",
+			"ctxt",
+			"ktxt",
+			"ptxt",
+			"plaintext",
+			"ptxt",
+			"57172",
+			"57171",
+			"portNum",
+			"socketfd",
+			"portNum",
+			"savedStdin",
+			"savedStdout",
+			"pid",
+			"exitStatus",
+			"launch",
+			"isbg",
+			"connectionNum"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "lockers.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

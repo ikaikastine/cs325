@@ -1,0 +1,25 @@
+//Prim's Algorithm
+reachSet = {0}
+unReachSet = {1, 2, ..., N-1}
+spanningTree = {}
+while (unReachSet != empty) {
+	find edge e = (x, y) such that:
+		x in reachSet
+		y in unReachSet
+		e has smallest cost
+	spanningTree = spanningTree + edge
+	reachSet = reachSet + {y}
+	unReachSet = unReachSet - {y}
+}
+
+//Boruvka's Algorithm
+boruvkaAlgorithm(graph, weight) {
+	spanningTree = {}
+	components = graph.vertices
+	while (components.size > 1) {
+		for each component in components
+			edge e = connectWithMinimalEdge(component, weight)
+			tree.add(edge)
+	}
+	return tree
+}
